@@ -1,7 +1,7 @@
 {
   "name": "Lucas Rupp",
   "description": "Source for personal projects and experience",
-  "repository": "https://github.com/MackieLevyn/LucasRupp",
+  "repository": "https://github.com/MackieLevyn/lucas-rupp",
   "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
   "start_url": "https://mackie-levyn.herokuapp.com/",
   "keywords": ["node", "express", "heroku"],
